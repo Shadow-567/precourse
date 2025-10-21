@@ -1,0 +1,4 @@
+#!/usr/bin/sh
+# a file that contains command to configure git when used for the first time
+git config user.name "your username"
+git config user.email "youremail@email.com"
