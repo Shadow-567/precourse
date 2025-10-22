@@ -1,0 +1,3 @@
+#!/url/bin/sh
+# a file to contains command to create a branch in a repository
+git branch <branch-name>
